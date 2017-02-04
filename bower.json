@@ -1,7 +1,7 @@
 {
     "name": "ng-bootstrap-tour",
-    "version": "0.4",
-    "main": "dist/angular-bootstrap-tour.js",
+    "version": "0.1",
+    "main": "ng-bootstrap-tour.js",
     "ignore": [
         ".editorconfig",
         ".gitattributes",
